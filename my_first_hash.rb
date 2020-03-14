@@ -17,7 +17,7 @@ def retrieval
                   "oil paintings" => 3
                  }
  shipping_manifest.collect do |k,v|
-   oil paintings
+   shipping_manifest 
 end
 
 def adding
