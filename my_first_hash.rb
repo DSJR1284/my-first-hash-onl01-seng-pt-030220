@@ -18,6 +18,7 @@ def retrieval
                  }
  shipping_manifest.collect do |k,v|
    return "#{v}"
+ end 
 end
 
 def adding
