@@ -17,7 +17,7 @@ def retrieval
                   "oil paintings" => 3
                  }
  shipping_manifest.collect do |k,v|
-   return "#{v}"== 3 
+    
  end 
 end
 
